@@ -1,4 +1,4 @@
-package com.sanvalero.restaurante;
+package com.sanvalero.telepizza;
 
 public class Application {
 
